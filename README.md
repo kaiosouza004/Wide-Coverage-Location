@@ -1,6 +1,6 @@
-<h1 align="center"> WE CARE YOUR PET </h1>
+<h1 align="center">WIDE-COVERAGE</h1>
 
-<p>O projeto consiste em uma Landing Page sobre o bem-estar animal. Além disso, é um projeto previamente responsivo, ou seja, adaptando-se tanto para desktops quanto para smartphones e tablets.</p>
+<p>O projeto consiste em uma landing page sobre local de ampla cobertura. Além do mais, é um projeto previamente responsivo, ou seja, adapta-se tanto para desktops quanto para smartphones e tablets.</p>
 
 
 <h3>O projeto foi realizado com as ferramentas:</h3>
@@ -13,7 +13,7 @@
 <li>CSS</li>
 </ul>
 
-<img align="center" width="100%" src="./img/we-care-github.png">
+<img align="center" width="100%" src="./img/wideLocation.png">
 
 <h3>Link do projeto</h3>
-<a href="https://wecareksz.netlify.app/">We care your pet</a>
+<a href="https://widelocationkaiokaled.netlify.app/">Wide-Coverage</a>
